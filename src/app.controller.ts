@@ -12,7 +12,6 @@ export class AppController {
 
   @Get('throw')
   throw(): string {
-    console.debug('throwing example exception');
     throw new Error('Example exception');
   }
 }
