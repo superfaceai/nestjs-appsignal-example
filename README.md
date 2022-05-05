@@ -6,11 +6,11 @@ This repository is based on [Nest](https://github.com/nestjs/nest) framework Typ
 
 It is extended with Appsignal monitoring to demonstrate Nest.JS and Appsignal integration.
 
-## Installation
+## Setup
 
-```bash
-$ npm install
-```
+1. `yarn install`
+2. `cp .env.example .env`
+3. set Appsignal push api key in .env file
 
 ## Running the app
 
