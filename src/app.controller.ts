@@ -9,4 +9,10 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
+
+  @Get('throw')
+  throw(): string {
+    console.debug('throwing example exception');
+    throw new Error('Example exception');
+  }
 }
