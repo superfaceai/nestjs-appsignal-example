@@ -1,4 +1,4 @@
-# Nest.JS monitoring with Appsignal
+# nestjs-appsignal-example
 
 ## Description
 
