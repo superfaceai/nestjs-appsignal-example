@@ -44,4 +44,4 @@ $ npm run test:cov
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+nestjs-appsignal-example is licensed under the [MIT License](LICENSE).
