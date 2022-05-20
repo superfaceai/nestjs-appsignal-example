@@ -4,13 +4,13 @@
 
 This repository is based on [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-It is extended with Appsignal monitoring to demonstrate NestJS and Appsignal integration.
+It is extended with AppSignal monitoring to demonstrate NestJS and AppSignal integration.
 
 ## Setup
 
 1. `yarn install`
 2. `cp .env.example .env`
-3. set Appsignal push api key in .env file
+3. set AppSignal push api key in .env file
 
 ## Running the app
 
