@@ -4,7 +4,7 @@
 
 This repository is based on [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-It is extended with AppSignal monitoring to demonstrate NestJS and AppSignal integration.
+It is extended with [AppSignal](https://www.appsignal.com/) monitoring to demonstrate NestJS and AppSignal integration.
 
 ## Setup
 
